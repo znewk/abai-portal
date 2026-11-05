@@ -1,0 +1,5 @@
+node_modules/
+dist/
+# служебные постановки — только локально
+IMPROVE_PROMPT.md
+NEXT_PROMPT.md
